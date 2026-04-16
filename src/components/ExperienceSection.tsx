@@ -2,11 +2,12 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Briefcase } from "lucide-react";
 
+
 const jobs = [
   {
     company: "Micro Data Tech Solution",
     role: "Full Stack .NET Developer",
-    period: "June 2025 – Present",
+    period: "May 2025 – Present",
     current: true,
     bullets: [
       "Developing enterprise-grade web applications using ASP.NET Core and Blazor",
@@ -17,7 +18,7 @@ const jobs = [
   {
     company: "Netrix Solutions",
     role: ".NET Developer",
-    period: "Jan 2024 – May 2025",
+    period: "Sep 2024 – April 2025",
     current: false,
     bullets: [
       "Built and maintained web applications using ASP.NET MVC and Web APIs",

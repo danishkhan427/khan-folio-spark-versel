@@ -4,7 +4,7 @@ import { useRef } from "react";
 import { Code2, Layers, Zap } from "lucide-react";
 
 const highlights = [
-  { icon: Code2, label: "1+ Year Experience", desc: "Professional .NET development" },
+  { icon: Code2, label: "1.5+ Year Experience", desc: "Professional .NET development" },
   { icon: Layers, label: "Clean Architecture", desc: "Scalable, maintainable code" },
   { icon: Zap, label: "Full Stack", desc: "Backend to frontend delivery" },
 ];
